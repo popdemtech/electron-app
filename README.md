@@ -43,3 +43,7 @@ Alter index.html, main.js, preload.js to suite your needs. And, importantly, add
 See the Electron documentation for implementation and walkthroughs and [examples](https://www.electronjs.org/docs/latest/tutorial/examples) to spark your inspiration.
 
 See also [awesome-electron](https://github.com/sindresorhus/awesome-electron#boilerplates).
+
+## Example apps
+
+[Box Jump](https://github.com/popdemtech/box-jump): Collision detection game with canvas and electron-app
