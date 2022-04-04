@@ -20,8 +20,9 @@ $ cd my-electron-app-repo-name
 
 2. Navigate to the walkthrough branch.
 ```
-$ git fetch origin/walkthrough
+$ git fetch origin walkthrough
 $ git checkout -b walkthrough
+$ git pull origin walkthrough
 ```
 
 These steps should land you on a branch with minimal files and `walkthrough.md`. Open `walkthrough.md` in a text editor and follow along by building the example application in the same directory.
