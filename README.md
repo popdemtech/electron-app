@@ -42,7 +42,3 @@ Alter index.html, main.js, preload.js to suite your needs. And, importantly, add
 See the Electron documentation for implementation and walkthroughs and [examples](https://www.electronjs.org/docs/latest/tutorial/examples) to spark your inspiration.
 
 See also [awesome-electron](https://github.com/sindresorhus/awesome-electron#boilerplates).
-
-## Sample Applications
-
-electron-app: [macOS](out/make/zip/darwin/x64/electron-app-darwin-x64-1.0.0.zip)
