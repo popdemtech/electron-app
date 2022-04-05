@@ -33,7 +33,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "electron_app"
+            "name": "electron-app"
           }
         },
         {
